@@ -1,0 +1,12 @@
+global using Xunit;
+global using DAL.ConnectionFactory;
+global using DAL.IService;
+global using DAL.Model;
+global using DAL.Service;
+global using DAL.Tests.FakeDataGenerator;
+global using DAL.Tests.FakerDataGenerator;
+global using Moq;
+global using MySqlConnector;
+global using System.Collections.Generic;
+global using System;
+global using System.Data;
